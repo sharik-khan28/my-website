@@ -2,6 +2,5 @@
 
 This website is really awesome.
 
-This is an update on update branch.
+Updates made in main On Github before rebase
 
-Updated Locally.
