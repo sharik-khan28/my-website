@@ -2,4 +2,4 @@
 
 This website is really awesome.
 
-This is an update on example branch.
+Updates made in main On Github before rebase
