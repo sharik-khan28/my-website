@@ -6,4 +6,4 @@ Master branch has been changed from **main** to **develop**.
 
 ## Purpose 
 
-Changing commit id associated with a tag.
+Craeting a pull request from Git
