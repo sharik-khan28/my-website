@@ -5,4 +5,4 @@ This website is really awesome.
 Master branch has been changed from **main** to **develop**.
 
 ## Purpose 
-Stash
+Changes the file locally to create a conflict.
